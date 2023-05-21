@@ -1,2 +1,2 @@
 // test file
-console.log("##test-file");
+console.log("##write sample test cases here");
